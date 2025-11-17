@@ -79,3 +79,7 @@ frontend/.env
 ## **Status**
 
 Project complete and ready for GitHub.
+
+## Demo Video
+Here is the demo video showcasing the full application:
+👉 https://drive.google.com/file/d/1NGhb_onkqs18yLEVeqFyvgv8-L4Kd8b4/view?usp=sharing
