@@ -1,0 +1,15 @@
+# Node
+node_modules
+npm-debug.log
+dist
+
+# Env vars
+.env
+backend/.env
+frontend/.env
+
+# Mac junk
+.DS_Store
+
+# VS Code config
+.vscode
